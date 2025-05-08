@@ -61,6 +61,8 @@
 <a href="https://www.kaggle.com/vladimirkatasonov" target="_blank">
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </a>  
+<img alt="Matrix" src="https://img.shields.io/matrix/qatz%3Amatrix.org?style=for-the-badge&logo=matrix&logoSize=auto">
+
   
 </div>  
   
@@ -113,5 +115,5 @@ If things goes well, this section should automatically be replaced by a list of 
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-<img alt="Matrix" src="https://img.shields.io/matrix/qatz%3Amatrix.org">
+
 
